@@ -1,1 +1,1 @@
-fastdfs:6
+delron/fastdfs
