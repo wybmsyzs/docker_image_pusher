@@ -1,1 +1,1 @@
-fastdfs:6.06
+fastdfs:6
