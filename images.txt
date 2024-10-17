@@ -1,1 +1,1 @@
-nginx
+fastdfs:6.06
