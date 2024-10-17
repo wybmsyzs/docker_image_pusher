@@ -1,1 +1,2 @@
-nacos/nacos-server:v2.2.1
+tomcat:8.5.8
+kafka:2.13-2.5.0
