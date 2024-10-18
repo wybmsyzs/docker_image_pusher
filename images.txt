@@ -1,2 +1,1 @@
-wurstmeister/zookeeper
-wurstmeister/kafka
+redis:6.2
