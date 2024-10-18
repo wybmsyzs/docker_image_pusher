@@ -1,5 +1,5 @@
 nginx:1.26
 tomcat:9.0-jdk8
-season/fastdfs
+morunchang/fastdfs
 nacos/nacos-server
 apache/kafka
