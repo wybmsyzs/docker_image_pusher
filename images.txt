@@ -1,5 +1,1 @@
-nginx:1.26
-tomcat:9.0-jdk8
-morunchang/fastdfs
-nacos/nacos-server
-apache/kafka
+minio/minio:RELEASE.2022-01-04T07-41-07Z
