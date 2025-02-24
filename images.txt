@@ -1,1 +1,1 @@
-rockylinux/rockylinux:9
+ubuntu:22.04
